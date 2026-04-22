@@ -7,7 +7,7 @@ msgid "CANCEL"
 msgstr "Cancel"
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Tu interacción ha sido restringido de Sudomemo."
+msgstr "Tus interacciones con Sudomemo están restringidas."
 
 msgid "COMMENT_POST_FAILED"
 msgstr "Ha ocurrido un error al publicar el comentario. Vuelve a intentarlo en un momento."
@@ -61,7 +61,7 @@ msgid "PAGE_FORMAT"
 msgstr "Página %d"
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "Populares"
 
 msgid "REPLYING_TO_X"
 msgstr "Respondiendo a %s"
