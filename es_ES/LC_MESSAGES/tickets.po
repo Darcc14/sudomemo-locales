@@ -551,17 +551,17 @@ msgid "TICKET_NAME_welcoming_champion_ticket"
 msgstr "Ticket de Campeón de las Bienvenidas"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "Has canjeado el %s, pero..."
+msgstr "Canjeaste el %s, pero..."
 
 msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "No has conseguido nada. ¡Lo siento!"
+msgstr "No has conseguido nada. ¡Que lástima!"
 
 # Ticket redemption
 msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "¡Has canjeado el %s!"
 
 msgid "TITLE"
-msgstr "Title"
+msgstr "Título"
 
 msgid "TROPHY"
 msgstr "Trofeo"
