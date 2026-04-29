@@ -461,7 +461,7 @@ msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Ticket Plus (un año)"
 
 msgid "TICKET_NAME_patreon_patron_ticket"
-msgstr "Ticket de Sudomemo Patron"
+msgstr "Ticket de Patrón de Sudomemo"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Ticket de Russell Ramblewood"
