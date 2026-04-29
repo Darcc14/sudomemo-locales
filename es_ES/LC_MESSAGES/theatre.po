@@ -1499,6 +1499,12 @@ msgstr "Aprende más"
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Necesitarás el enlace de tu canal de YouTube antes de que puedas subir tu Flipnote."
 
+msgid "LIVE_SEARCH_CHANNELS_EMPTY"
+msgstr "No channels found."
+
+msgid "LIVE_SEARCH_CHANNELS_ERROR"
+msgstr "Search error."
+
 msgid "LOADING"
 msgstr "Loading..."
 
@@ -1719,6 +1725,9 @@ msgstr "Discord"
 
 msgid "NAVBAR_ITEM_EMAIL"
 msgstr "Correo electrónico"
+
+msgid "NAVBAR_ITEM_END_ADMIN_SESSION"
+msgstr "End admin session"
 
 msgid "NAVBAR_ITEM_FACEBOOK"
 msgstr "Facebook"
@@ -2017,6 +2026,9 @@ msgstr "Pin"
 
 msgid "PINNED_COMMENT"
 msgstr "Comentario Fijado"
+
+msgid "PI_SEE_IN_INVENTORY"
+msgstr "You can find this in your Inventory!"
 
 msgid "PLAYLIST"
 msgstr "Playlist"
@@ -2348,6 +2360,27 @@ msgstr "Has excedido el límite de mensajes que puedes enviar."
 msgid "RATE_LIMITED_SWITCHER"
 msgstr "Rate limited. Please wait before performing more actions."
 
+msgid "REASSIGN_CHANNEL_ERROR"
+msgstr "Failed to update channel."
+
+msgid "REASSIGN_CHANNEL_MODAL_TITLE"
+msgstr "Reassign Channel"
+
+msgid "REASSIGN_CHANNEL_NO_SELECTION"
+msgstr "Please select a channel first."
+
+msgid "REASSIGN_CHANNEL_SEARCH_HELP"
+msgstr "Start typing to find a channel"
+
+msgid "REASSIGN_CHANNEL_SEARCH_LABEL"
+msgstr "Search Channels"
+
+msgid "REASSIGN_CHANNEL_SEARCH_PLACEHOLDER"
+msgstr "Channel name..."
+
+msgid "REASSIGN_CHANNEL_SUCCESS"
+msgstr "Channel updated!"
+
 msgid "RECENT"
 msgstr "Reciente"
 
@@ -2653,6 +2686,18 @@ msgstr "Más Alto"
 msgid "TO_ADD_A_COMMENT"
 msgstr "para añadir un comentario"
 
+msgid "TRANSLATE_COMMENT"
+msgstr "Translate"
+
+msgid "TRANSLATION_ATTRIBUTION_GOOGLE"
+msgstr "Translated by Google"
+
+msgid "TRANSLATION_NOT_READY"
+msgstr "Translation not yet ready for this comment."
+
+msgid "TRANSLATION_UNAVAILABLE"
+msgstr "Translation unavailable."
+
 msgid "TROPHY_CASE"
 msgstr "Vitrina de Trofeos"
 
@@ -2805,6 +2850,9 @@ msgstr "Caja de Comentarios"
 # # Comments section
 msgid "VIEWPAGE_COMMENT_WRITE_HERE"
 msgstr "Escribe aquí"
+
+msgid "VIEWPAGE_MODERATOR_COMMENT_PLACEHOLDER"
+msgstr "This comment will be posted as Moderator."
 
 msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
 msgstr "No uses esto para comentarios personales."
