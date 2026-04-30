@@ -162,16 +162,16 @@ msgid "SEARCH_FILTERS"
 msgstr "Filtros de Búsqueda"
 
 msgid "SEARCH_FILTER_LOCKED"
-msgstr "Locked"
+msgstr "Bloqueados"
 
 msgid "SEARCH_FILTER_LOCKED_OPTION_UNLOCKED"
-msgstr "Unlocked"
+msgstr "No Bloqueados"
 
 msgid "SEARCH_FILTER_OPTION_ANY"
 msgstr "Ambos"
 
 msgid "SEARCH_FILTER_SPINOFF"
-msgstr "Spin-off"
+msgstr "Spin-Off"
 
 msgid "SEARCH_PLACEHOLDER"
 msgstr "Busca por Creador, FSID, o usa filtros"
@@ -183,7 +183,7 @@ msgid "SEARCH_TITLE"
 msgstr "Buscar Flipnotes"
 
 msgid "SEARCH_WAITING"
-msgstr "Indexing Flipnotes, this may take some time depending on how many Flipnotes you have..."
+msgstr "Indexando Flipnotes, esto podría tardarse un poco dependiendo de cuantos Flipnotes tengas..."
 
 msgid "SELECT_HERE"
 msgstr "¡Selecciona aquí!"
@@ -255,7 +255,7 @@ msgid "SETTINGS_FLIPNOTE_VIEW_STICKERS_DESCRIPTION"
 msgstr "Al estar activado, se mostrarán stickers por encima de las miniaturas. Se recomienda mantener esto activado para mantener el mismo orden de Flipnotes tanto en Flipnote Organizer como en Nintendo DSi."
 
 msgid "SETTINGS_GALLERY_ICONS"
-msgstr "Mostrar Iconos sobre Miniaturas en el Modo Galería"
+msgstr "Mostrar Íconos sobre Miniaturas en el Modo Galería"
 
 msgid "SETTINGS_GALLERY_ICONS_DESCRIPTION"
 msgstr "Mientras esto esté activado, se mostrarán íconos sobre las miniaturas de los Flipnotes al usar el Modo Galería. A menos que los íconos no te permitan ver las miniaturas, se recomienda mantener esto activado."
@@ -353,7 +353,7 @@ msgstr "Accesibilidad"
 msgid "SETTINGS_TITLE_ACCESSIBILITY_DESCRIPTION"
 msgstr "Opciones que permiten que el uso de la página sea más agradable con cambios visuales, sonoros, etc."
 
-# These settings are usually hidden, so don't worry about them too much. <<< I'm sorry Austin... I have nothing to do and I must translate
+# These settings are usually hidden, so don't worry about them too much. <<< I'm sorry... I have no mouth and I must translate
 msgid "SETTINGS_TITLE_DEVELOPER"
 msgstr "Opciones de Desarrollador"
 
@@ -364,7 +364,7 @@ msgid "SETTINGS_TITLE_EXPERIMENTAL"
 msgstr "Experimental"
 
 msgid "SETTINGS_TITLE_EXPERIMENTAL_DESCRIPTION"
-msgstr "Estas funciones siguen en una fase experimental e inestable. Podrían ser eliminadas o romperse en el futuro."
+msgstr "Estas funciones siguen en una fase experimental e inestable. Podrían romperse e incluso ser eliminadas en el futuro."
 
 msgid "SETTINGS_TITLE_GENERAL"
 msgstr "General"
@@ -471,13 +471,13 @@ msgid "SORT_GENERIC_CONTROLLER"
 msgstr "Control Genérico"
 
 msgid "SORT_INSTRUCTIONS"
-msgstr "Select a Flipnote with the arrow keys, and drag and drop with the space bar. Leaving this folder without hitting \"Confirm\" will discard your changes."
+msgstr "Selecciona un Flipnote con las flechas de tu teclado, y utiliza la Barra Espaciadora para arrastrarlos. Si sales de esta carpeta sin seleccionar \"Confirmar\" primero, se descartarán tus cambios."
 
 msgid "SORT_INSTRUCTIONS_CONTROLLER"
-msgstr "Select a Flipnote with the D-PAD, and drag and drop with the A or X (Playstation) button. Leaving this folder without hitting \"Confirm\" will discard your changes."
+msgstr "Selecciona un Flipnote con la Cruceta, y arrastra con el botón A o X (Playstation). Si sales de esta carpeta sin seleccionar \"Confirmar\" primero, se descartarán tus cambios."
 
 msgid "SORT_INSTRUCTIONS_WIIMOTE"
-msgstr "Select a Flipnote by hovering your pointer over it, and drag by holding A + B. Leaving this folder without hitting \"Confirm\" will discard your changes."
+msgstr "Selecciona un Flipnote moviendo el puntero sobre el, y arrastra manteniendo pulsados A y B. Si sales de esta carpeta sin seleccionar \"Confirmar\" primero, se descartarán tus cambios."
 
 msgid "SORT_JOY2L_CONTROLLER"
 msgstr "Joycon 2 Izquierdo"
@@ -519,7 +519,7 @@ msgid "SORT_SAVE_NOTICE_TITLE"
 msgstr "Por favor, ten en cuenta:"
 
 msgid "SORT_WARNING_ALL_FLIPNOTES"
-msgstr "No puedes reorganizar Flipnotes en [All Flipnotes]."
+msgstr "No puedes reorganizar Flipnotes desde Todos los Flipnotes."
 
 msgid "SORT_WARNING_FLIPNOTE_3D"
 msgstr "No puedes reorganizar Flipnotes hechos en Flipnote Studio 3D."
@@ -541,7 +541,7 @@ msgid "SORT_WARNING_TOO_MANY_FLIPNOTES"
 msgstr "Tienes más de 100 Flipnotes en esta carpeta; Flipnote Studio ignorará cualquier Flipnote pasados el número 100. Por favor mueve algunos Flipnotes."
 
 msgid "SORT_WARNING_WRONG_SORTING_MODE"
-msgstr "Debes desactivar [Sort Flipnotes Alphabetically] antes de poder ordenar Flipnotes."
+msgstr "Primero debes desactivar Ordenar Flipnotes por Nombre de Archivo antes de poder ordenar Flipnotes."
 
 msgid "SORT_XBOX_CONTROLLER"
 msgstr "Mando de Xbox"
