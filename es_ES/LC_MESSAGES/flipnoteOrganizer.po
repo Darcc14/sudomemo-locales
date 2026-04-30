@@ -14,13 +14,13 @@ msgid "BUTTON_ALL_SETTINGS"
 msgstr "View All Settings"
 
 msgid "BUTTON_BACK"
-msgstr "Back"
+msgstr "Volver"
 
 msgid "BUTTON_CLOSE_PLAYER"
-msgstr "Close Player"
+msgstr "Cerrar Reproductor"
 
 msgid "BUTTON_CLOSE_SETTINGS"
-msgstr "Close Settings"
+msgstr "Cerrar Configuración"
 
 msgid "BUTTON_DIGITAL_SHIFT"
 msgstr "Shift"
@@ -29,19 +29,19 @@ msgid "BUTTON_TO_TOP"
 msgstr "Top"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "Creditos"
 
 msgid "CREDITS_CREATOR"
-msgstr "Created by King Mayro"
+msgstr "Creado por King Mayro"
 
 msgid "CREDITS_SPECIAL_THANKS"
-msgstr "Special Thanks"
+msgstr "Agradecimientos Especiales"
 
 msgid "DONT_SHOW_NOTICE_AGAIN"
-msgstr "Please don't show this again"
+msgstr "No mostrar de nuevo"
 
 msgid "DUPLICATES"
-msgstr "Duplicates"
+msgstr "Duplicados"
 
 msgid "DUPLICATE_INSIDE_FOLDER"
 msgstr "Inside:"
@@ -53,44 +53,44 @@ msgid "FLIPNOTE_AMOUNT"
 msgstr "Flipnotes"
 
 msgid "FLIPNOTE_DETAILS_AUTHOR"
-msgstr "Creator:"
+msgstr "Creador:"
 
 msgid "FLIPNOTE_ORGANIZER"
 msgstr "Flipnote Organizer"
 
 msgid "FLIPNOTE_ORGANIZER_SECONDARY_TAGLINE"
-msgstr "Sort, view, search, and watch your downloaded Flipnotes!"
+msgstr "¡Ordena, mira, busca, y reproduce tus Flipnotes descargados!"
 
 msgid "FLIPNOTE_ORGANIZER_TAGLINE"
-msgstr "Keep your Flipnotes and folders nice and tidy with the Flipnote Organizer!"
+msgstr "¡Mantén tus carpetas y Flipnotes bonitos y organizados con Flipnote Organizer!"
 
 # Treat these as if they have a number attatched.
 msgid "FOLDER"
-msgstr "folder"
+msgstr "carpeta"
 
 msgid "FOLDER_AMOUNT"
-msgstr "folders"
+msgstr "carpetas"
 
 msgid "FOLDER_NOTE"
-msgstr "You can find your Flipnote folder at %s"
+msgstr "Puedes encontrar la carpeta de tus Flipnotes en %s"
 
 msgid "FOLDER_NOTE_DONT_WORRY"
-msgstr "Your Flipnotes are not uploaded or stored; they are loaded locally."
+msgstr "Tus Flipnotes no son subidos o guardados; todos cargan localmente."
 
 msgid "FOLDER_NOTE_WIIMOTE_CANT_SELECT"
-msgstr "A mouse must be used to select your Flipnote folder due to browser permissions."
+msgstr "Deberás utilizar un ratón para seleccionar una carpeta debido a los permisos de tu navegador."
 
 msgid "FOLDER_SELECTOR"
-msgstr "Click or drag and drop a folder in here!"
+msgstr "¡Selecciona o arrastra una carpeta aquí!"
 
 msgid "FOLDER_SELECTOR_NO_DRAG"
-msgstr "Click here to load a folder!!!"
+msgstr "¡¡Haz clic aquí para seleccionar una carpeta!!"
 
 msgid "HOW_TO_USE"
-msgstr "How to Use"
+msgstr "Cómo Usar"
 
 msgid "IMPORTANT"
-msgstr "Important:"
+msgstr "Importante:"
 
 msgid "JAVASCRIPT_NEEDED"
 msgstr "The Flipnote Organizer requires Javascript to run."
@@ -99,67 +99,67 @@ msgid "JAVASCRIPT_PLEAE_ENABLE"
 msgstr "Please enable Javascript within your browsers settings."
 
 msgid "JOYCON_MIX_WARNING"
-msgstr "You cannot mix a Joycon and a Joycon 2 in a pair. Please remove one from the pair."
+msgstr "No puedes mezclar un Joycon y un Joycon 2 en un mismo par. Por favor elimina uno del par."
 
 msgid "LINKS"
-msgstr "Links"
+msgstr "Enlaces"
 
 msgid "LISTING_ALL_FLIPNOTES"
-msgstr "All Flipnotes"
+msgstr "Todos los Flipnotes"
 
 msgid "LISTING_NO_SEARCH_RESULTS"
-msgstr "No Results..."
+msgstr "Sin Resultados..."
 
 msgid "LISTING_SEARCH_RESULTS"
-msgstr "Search Results"
+msgstr "Resultados de Búsqueda"
 
 msgid "MEMOPLUS"
 msgstr "Memo+"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Siguiente"
 
 msgid "NO"
 msgstr "No"
 
 msgid "NOT_A_JOYCON_WARNING"
-msgstr "That isn't a Joycon!"
+msgstr "¡Eso no es un Joycon!"
 
 msgid "NO_THANKS"
-msgstr "No thanks"
+msgstr "No, gracias"
 
 msgid "OK"
-msgstr "OK"
+msgstr "Bien"
 
 msgid "ORGANIZER_THEME_BLUE"
-msgstr "Cyan"
+msgstr "Cian"
 
 msgid "ORGANIZER_THEME_DARK_MODE"
 msgstr "Dark Navy"
 
 msgid "ORGANIZER_THEME_DEFAULT"
-msgstr "Orange"
+msgstr "Naranja"
 
 msgid "ORGANIZER_THEME_GREEN"
-msgstr "Green"
+msgstr "Verde"
 
 msgid "ORGANIZER_THEME_PURPLE"
-msgstr "Purple"
+msgstr "Púrpura"
 
 msgid "PREV"
 msgstr "Prev"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Anterior"
 
 msgid "PRO_CONTROLLER_CANT_BE_A_PAIR_WARNING"
-msgstr "Pro Controllers cannot be in a pair with a Joycon."
+msgstr "No puedes usar un Control Pro como el par de un Joycon."
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Buscar"
 
 msgid "SEARCH_FILTERS"
-msgstr "Search Filters"
+msgstr "Filtros de Búsqueda"
 
 msgid "SEARCH_FILTER_LOCKED"
 msgstr "Locked"
@@ -171,16 +171,16 @@ msgid "SEARCH_FILTER_OPTION_ANY"
 msgstr "Any"
 
 msgid "SEARCH_FILTER_SPINOFF"
-msgstr "Spinoff"
+msgstr "Spin-off"
 
 msgid "SEARCH_PLACEHOLDER"
 msgstr "Enter a Creator, FSID, or use filters"
 
 msgid "SEARCH_RESULTS_FOLDER"
-msgstr "Results"
+msgstr "Resultados"
 
 msgid "SEARCH_TITLE"
-msgstr "Search Flipnotes"
+msgstr "Buscar Flipnotes"
 
 msgid "SEARCH_WAITING"
 msgstr "Indexing Flipnotes, this may take some time depending on how many Flipnotes you have..."
