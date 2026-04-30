@@ -4,14 +4,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ABOUT"
-msgstr "About"
+msgstr "Información"
 
 # Keep ALL_FLIPNOTES_FOLDER under 7 characters.
 msgid "ALL_FLIPNOTES_FOLDER"
-msgstr "All"
+msgstr "Todos"
 
 msgid "BUTTON_ALL_SETTINGS"
-msgstr "View All Settings"
+msgstr "Ver todas las Opciones"
 
 msgid "BUTTON_BACK"
 msgstr "Volver"
@@ -26,10 +26,10 @@ msgid "BUTTON_DIGITAL_SHIFT"
 msgstr "Shift"
 
 msgid "BUTTON_TO_TOP"
-msgstr "Top"
+msgstr "Volver arriba"
 
 msgid "CREDITS"
-msgstr "Creditos"
+msgstr "Créditos"
 
 msgid "CREDITS_CREATOR"
 msgstr "Creado por King Mayro"
@@ -44,7 +44,7 @@ msgid "DUPLICATES"
 msgstr "Duplicados"
 
 msgid "DUPLICATE_INSIDE_FOLDER"
-msgstr "Inside:"
+msgstr "Dentro de:"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -59,7 +59,7 @@ msgid "FLIPNOTE_ORGANIZER"
 msgstr "Flipnote Organizer"
 
 msgid "FLIPNOTE_ORGANIZER_SECONDARY_TAGLINE"
-msgstr "¡Ordena, mira, busca, y reproduce tus Flipnotes descargados!"
+msgstr "¡Ordena, mira, busca y reproduce tus Flipnotes descargados!"
 
 msgid "FLIPNOTE_ORGANIZER_TAGLINE"
 msgstr "¡Mantén tus carpetas y Flipnotes bonitos y organizados con Flipnote Organizer!"
@@ -75,7 +75,7 @@ msgid "FOLDER_NOTE"
 msgstr "Puedes encontrar la carpeta de tus Flipnotes en %s"
 
 msgid "FOLDER_NOTE_DONT_WORRY"
-msgstr "Tus Flipnotes no son subidos o guardados; todos cargan localmente."
+msgstr "Tus Flipnotes no son subidos a nuestros servidores ni guardados; todo carga localmente."
 
 msgid "FOLDER_NOTE_WIIMOTE_CANT_SELECT"
 msgstr "Deberás utilizar un ratón para seleccionar una carpeta debido a los permisos de tu navegador."
@@ -84,7 +84,7 @@ msgid "FOLDER_SELECTOR"
 msgstr "¡Selecciona o arrastra una carpeta aquí!"
 
 msgid "FOLDER_SELECTOR_NO_DRAG"
-msgstr "¡¡Haz clic aquí para seleccionar una carpeta!!"
+msgstr "¡¡¡Haz clic aquí para seleccionar una carpeta!!!"
 
 msgid "HOW_TO_USE"
 msgstr "Cómo Usar"
@@ -93,10 +93,10 @@ msgid "IMPORTANT"
 msgstr "Importante:"
 
 msgid "JAVASCRIPT_NEEDED"
-msgstr "The Flipnote Organizer requires Javascript to run."
+msgstr "Flipnote Organizer necesita JavaScript para funcionar."
 
 msgid "JAVASCRIPT_PLEAE_ENABLE"
-msgstr "Please enable Javascript within your browsers settings."
+msgstr "Por favor activa JavaScript en la configuración de tu navegador."
 
 msgid "JOYCON_MIX_WARNING"
 msgstr "No puedes mezclar un Joycon y un Joycon 2 en un mismo par. Por favor elimina uno del par."
@@ -135,7 +135,7 @@ msgid "ORGANIZER_THEME_BLUE"
 msgstr "Cian"
 
 msgid "ORGANIZER_THEME_DARK_MODE"
-msgstr "Dark Navy"
+msgstr "Azul Marino"
 
 msgid "ORGANIZER_THEME_DEFAULT"
 msgstr "Naranja"
@@ -147,7 +147,7 @@ msgid "ORGANIZER_THEME_PURPLE"
 msgstr "Púrpura"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Ant."
 
 msgid "PREVIOUS"
 msgstr "Anterior"
@@ -168,13 +168,13 @@ msgid "SEARCH_FILTER_LOCKED_OPTION_UNLOCKED"
 msgstr "Unlocked"
 
 msgid "SEARCH_FILTER_OPTION_ANY"
-msgstr "Any"
+msgstr "Ambos"
 
 msgid "SEARCH_FILTER_SPINOFF"
 msgstr "Spin-off"
 
 msgid "SEARCH_PLACEHOLDER"
-msgstr "Enter a Creator, FSID, or use filters"
+msgstr "Busca por Creador, FSID, o usa filtros"
 
 msgid "SEARCH_RESULTS_FOLDER"
 msgstr "Resultados"
@@ -186,76 +186,76 @@ msgid "SEARCH_WAITING"
 msgstr "Indexing Flipnotes, this may take some time depending on how many Flipnotes you have..."
 
 msgid "SELECT_HERE"
-msgstr "Select here!"
+msgstr "¡Selecciona aquí!"
 
 msgid "SETTINGS_AUTO_RECONNECT_WIIMOTE"
-msgstr "Auto-Reconnect Wiimote"
+msgstr "Reconectar Mando de Wii Automáticamente"
 
 msgid "SETTINGS_AUTO_RECONNECT_WIIMOTE_DESCRIPTION"
-msgstr "After you've connected a Wiimote, your Wiimote will automatically reconnect under most circumstances."
+msgstr "Luego de haber conectado un mando de Wii, se reconectará automáticamente la mayor parte del tiempo."
 
 msgid "SETTINGS_CLASSIC_SOUNDS"
-msgstr "Classic Button Sounds"
+msgstr "Sonidos Clásicos de Botones"
 
 msgid "SETTINGS_CLASSIC_SOUNDS_DESCRIPTION"
-msgstr "When enabled, the original Flipnote Studio sounds are used instead of the Flipnote Organizer versions."
+msgstr "Al estar activado, se utilizarán los efectos de sonido originales de Flipnote Studio en lugar de sus versiones de Flipnote Organizer."
 
 msgid "SETTINGS_CLEAR_FLIPNOTE_CACHE"
-msgstr "Clear Flipnote Cache"
+msgstr "Limpiar Caché de Flipnotes"
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_DIGITAL_SHIFT"
-msgstr "Digital Shift Button"
+msgstr "Tecla Shift Digital"
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_DIGITAL_SHIFT_DESCRIPTION"
-msgstr "For when the shift key is unavailable, or when it is preferable to have an auto-hold on shift. This cannot be used if Gallery View is enabled."
+msgstr "Para cuando la tecla Shift no se encuentre disponible, o en caso de que sea preferible que la tecla se mantenga presionada. Esta opción no se puede utilizar si el Modo Galería está activado."
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_SHIFT"
-msgstr "Shift for More Flipnote Details"
+msgstr "Detalles Extra al Presionar Shift"
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_SHIFT_DESCRIPTION"
-msgstr "When holding shift or using the Digital Shift, extra details about Flipnotes will be displayed. It is recommended to keep this on. This cannot be used if Gallery View is enabled."
+msgstr "Al pulsar Shift o la Tecla Digital Shift, se mostrarán detalles extra de los Flipnotes. Se recomienda mantener esta opción activada. Esta opción no se puede utilizar si el Modo Galería está activado."
 
 msgid "SETTINGS_FLIPNOTE_PLAYER_VOLUME"
-msgstr "Flipnote Player Volume"
+msgstr "Volumen del Reproductor de Flipnotes"
 
 msgid "SETTINGS_FLIPNOTE_PLAYER_VOLUME_DESCRIPTION"
-msgstr "Adjust the volume of the Flipnote Player."
+msgstr "Ajusta el volumen del Reproductor de Flipnotes."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D"
-msgstr "View KWZs"
+msgstr "Ver KWZs"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D_DESCRIPTION"
-msgstr "When enabled, Flipnote Studio 3D KWZs will show up in the file system. KWZs may not support certain functions that PPMs do such as Color Accessibility, or Searchability."
+msgstr "Al estar activado, se mostrarán los archivos KWZ de Flipnote Studio 3D. Hay ciertas funciones que podrían no funcionar en los archivos KWZ a diferencia de los archivos PPM, como los Filtros de Color y la Búsqueda."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D_REFRESH"
-msgstr "A refresh must be done for this setting to take effect."
+msgstr "Para que esta opción surta efecto, debes actualizar la página."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_GALLERY"
-msgstr "Gallery View"
+msgstr "Modo Galería"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_GALLERY_DESCRIPTION"
-msgstr "When enabled, only the thumbnails of Flipnotes will be shown. If Gallery View is enabled, Shift for More Flipnote Details will be unavailable."
+msgstr "Solo se mostrarán las miniaturas de los Flipnotes mientras esté activado. Si el Modo Galería está activado, la opción Detalles Extra al Presionar Shift no funcionará."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_ORIGINAL_THUMBNAIL"
-msgstr "Original Flipnote Thumbnail Resolution"
+msgstr "Resolución Original de las Miniaturas"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_ORIGINAL_THUMBNAIL_DESCRIPTION"
-msgstr "When enabled, Flipnotes will use the built-in PPM thumbnails. These thumbnails are typically far less vibrant and are lower resolution, as such it is generally recommended to keep this off."
+msgstr "Al estar activado, se utilizarán las miniaturas incluídas en el archivo PPM. Usualmente las miniaturas originales son mucho menos coloridas y tienen una resolución más pequeña, por lo que se recomienda que mantengas esto desactivado."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_SORT_BY_FILENAME"
-msgstr "Sort Flipnotes Alphabetically by Filename"
+msgstr "Ordenar Flipnotes por Nombre de Archivo"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_SORT_BY_FILENAME_DESCRIPTION"
-msgstr "When enabled, Flipnotes will be sorted alphabetically based on the filename. To maintain parity with listing on the Organizer and on DSi, it is generally recommended to keep this off."
+msgstr "Al estar activado, los Flipnotes serán ordenados utilizando el nombre de sus archivos. Se recomienda mantener esto desactivado para mantener el mismo orden de Flipnotes tanto en Flipnote Organizer como en Nintendo DSi."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_STICKERS"
-msgstr "Display Stickers on Flipnotes"
+msgstr "Mostrar Stickers en los Flipnotes"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_STICKERS_DESCRIPTION"
-msgstr "When enabled, Flipnotes will have stickers shown on top of their thumbnails. To maintain parity with listing on the Organizer and on DSi, it is generally recommended to keep this on."
+msgstr "Al estar activado, se mostrarán stickers por encima de las miniaturas. Se recomienda mantener esto activado para mantener el mismo orden de Flipnotes tanto en Flipnote Organizer como en Nintendo DSi."
 
 msgid "SETTINGS_GALLERY_ICONS"
-msgstr "Display Icons Over Thumbnails in Gallery View"
+msgstr "Mostrar Iconos sobre Miniaturas en el Modo Galería"
 
 msgid "SETTINGS_GALLERY_ICONS_DESCRIPTION"
 msgstr "When enabled, Flipnotes will have icons shown on top of their thumbnails. Unless the icons are blocking thumbnails, it is generally recommended to keep this on."
