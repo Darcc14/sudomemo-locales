@@ -78,7 +78,7 @@ msgid "FOLDER_NOTE_DONT_WORRY"
 msgstr "Tus Flipnotes no son subidos a nuestros servidores ni guardados; todo carga localmente."
 
 msgid "FOLDER_NOTE_WIIMOTE_CANT_SELECT"
-msgstr "Deberás utilizar un ratón para seleccionar una carpeta debido a los permisos de tu navegador."
+msgstr "Debido a los permisos del navegador, deberás utilizar un ratón para escoger la carpeta de tus Flipnotes."
 
 msgid "FOLDER_SELECTOR"
 msgstr "¡Selecciona o arrastra una carpeta aquí!"
@@ -258,25 +258,25 @@ msgid "SETTINGS_GALLERY_ICONS"
 msgstr "Mostrar Iconos sobre Miniaturas en el Modo Galería"
 
 msgid "SETTINGS_GALLERY_ICONS_DESCRIPTION"
-msgstr "When enabled, Flipnotes will have icons shown on top of their thumbnails. Unless the icons are blocking thumbnails, it is generally recommended to keep this on."
+msgstr "Mientras esto esté activado, se mostrarán íconos sobre las miniaturas de los Flipnotes al usar el Modo Galería. A menos que los íconos no te permitan ver las miniaturas, se recomienda mantener esto activado."
 
 msgid "SETTINGS_GALLERY_THUMBNAIL_SCALE"
-msgstr "Gallery View Thumbnail Scale"
+msgstr "Tamaño de Miniaturas en Modo Galería"
 
 msgid "SETTINGS_GALLERY_THUMBNAIL_SCALE_DESCRIPTION"
-msgstr "Adjust the scale of the Gallery View thumbnails."
+msgstr "Ajusta el tamaño de las miniaturas en el Modo Galería."
 
 msgid "SETTINGS_GAMEPADS"
-msgstr "Controllers and Gamepads"
+msgstr "Mandos y Controles"
 
 msgid "SETTINGS_GAMEPADS_DESCRIPTION"
-msgstr "Utilize controllers or gamepads to interact with the Flipnote Organizer."
+msgstr "Utiliza mandos o controles para interactuar con Flipnote Organizer."
 
 msgid "SETTINGS_JOYCON_PAIR"
-msgstr "Joycon Pairings"
+msgstr "Pares de Joycon"
 
 msgid "SETTINGS_JOYCON_PAIR_DESCRIPTION"
-msgstr "Drag and drop connected Joycons to form a pair. If you put a singular Joycon in a pairing, you will have to flip the Joycon on its side."
+msgstr "Arrastra los Joycon conectados para formar pares. Si uno de los pares tiene un solo Joycon, deberás sostener el Joycon de lado."
 
 msgid "SETTINGS_ORGANIZER_FIX_NAVBAR"
 msgstr "Fix Navbar to the Top"
