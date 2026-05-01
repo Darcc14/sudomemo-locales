@@ -56,13 +56,13 @@ msgid "FLIPNOTE_DETAILS_AUTHOR"
 msgstr "Creador:"
 
 msgid "FLIPNOTE_ORGANIZER"
-msgstr "Flipnote Organizer"
+msgstr "Flipnote Organiser"
 
 msgid "FLIPNOTE_ORGANIZER_SECONDARY_TAGLINE"
 msgstr "¡Ordena, mira, busca y reproduce tus Flipnotes descargados!"
 
 msgid "FLIPNOTE_ORGANIZER_TAGLINE"
-msgstr "¡Mantén tus carpetas y Flipnotes bonitos y organizados con Flipnote Organizer!"
+msgstr "¡Mantén tus carpetas y Flipnotes bonitos y organizados con Flipnote Organiser!"
 
 # Treat these as if they have a number attatched.
 msgid "FOLDER"
@@ -93,7 +93,7 @@ msgid "IMPORTANT"
 msgstr "Importante:"
 
 msgid "JAVASCRIPT_NEEDED"
-msgstr "Flipnote Organizer necesita JavaScript para funcionar."
+msgstr "Flipnote Organiser necesita JavaScript para funcionar."
 
 msgid "JAVASCRIPT_PLEAE_ENABLE"
 msgstr "Por favor activa JavaScript en la configuración de tu navegador."
@@ -198,7 +198,7 @@ msgid "SETTINGS_CLASSIC_SOUNDS"
 msgstr "Sonidos Clásicos de Botones"
 
 msgid "SETTINGS_CLASSIC_SOUNDS_DESCRIPTION"
-msgstr "Al estar activado, se utilizarán los efectos de sonido originales de Flipnote Studio en lugar de sus versiones de Flipnote Organizer."
+msgstr "Al estar activado, se utilizarán los efectos de sonido originales de Flipnote Studio en lugar de sus versiones de Flipnote Organiser."
 
 msgid "SETTINGS_CLEAR_FLIPNOTE_CACHE"
 msgstr "Limpiar Caché de Flipnotes"
@@ -246,13 +246,13 @@ msgid "SETTINGS_FLIPNOTE_VIEW_SORT_BY_FILENAME"
 msgstr "Ordenar Flipnotes por Nombre de Archivo"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_SORT_BY_FILENAME_DESCRIPTION"
-msgstr "Al estar activado, los Flipnotes serán ordenados utilizando el nombre de sus archivos. Se recomienda mantener esto desactivado para mantener el mismo orden de Flipnotes tanto en Flipnote Organizer como en Nintendo DSi."
+msgstr "Al estar activado, los Flipnotes serán ordenados utilizando el nombre de sus archivos. Se recomienda mantener esto desactivado para mantener el mismo orden de Flipnotes tanto en Flipnote Organiser como en Nintendo DSi."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_STICKERS"
 msgstr "Mostrar Stickers en los Flipnotes"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_STICKERS_DESCRIPTION"
-msgstr "Al estar activado, se mostrarán stickers por encima de las miniaturas. Se recomienda mantener esto activado para mantener el mismo orden de Flipnotes tanto en Flipnote Organizer como en Nintendo DSi."
+msgstr "Al estar activado, se mostrarán stickers por encima de las miniaturas. Se recomienda mantener esto activado para mantener el mismo orden de Flipnotes tanto en Flipnote Organiser como en Nintendo DSi."
 
 msgid "SETTINGS_GALLERY_ICONS"
 msgstr "Mostrar Íconos sobre Miniaturas en el Modo Galería"
@@ -270,7 +270,7 @@ msgid "SETTINGS_GAMEPADS"
 msgstr "Mandos y Controles"
 
 msgid "SETTINGS_GAMEPADS_DESCRIPTION"
-msgstr "Utiliza mandos o controles para interactuar con Flipnote Organizer."
+msgstr "Utiliza mandos o controles para interactuar con Flipnote Organiser."
 
 msgid "SETTINGS_JOYCON_PAIR"
 msgstr "Pares de Joycon"
@@ -294,7 +294,7 @@ msgid "SETTINGS_PLAYER_COLOR_MEMO_PLUS"
 msgstr "Mejoras de Memo+"
 
 msgid "SETTINGS_PLAYER_COLOR_MEMO_PLUS_DESCRIPTION"
-msgstr "Flipnote Organizer mostrará mejoras en el color en Flipnotes que soporten Memo+ mientras esta opción esté activada. Se recomienda mantenerla activada."
+msgstr "Flipnote Organiser mostrará mejoras en el color en Flipnotes que soporten Memo+ mientras esta opción esté activada. Se recomienda mantenerla activada."
 
 msgid "SETTINGS_PLAYER_COLOR_MEMO_PLUS_LEARN_MORE"
 msgstr "Puedes aprender más sobre Memo+ en %s."
@@ -345,7 +345,7 @@ msgid "SETTINGS_THEME"
 msgstr "Tema"
 
 msgid "SETTINGS_THEME_DESCRIPTION"
-msgstr "Escoge tu tema preferido para Flipnote Organizer."
+msgstr "Escoge tu tema preferido para Flipnote Organiser."
 
 msgid "SETTINGS_TITLE_ACCESSIBILITY"
 msgstr "Accesibilidad"
@@ -382,7 +382,7 @@ msgid "SETTINGS_USE_WIIMOTE"
 msgstr "Usar un Mando de Wii"
 
 msgid "SETTINGS_USE_WIIMOTE_DESCRIPTION"
-msgstr "Usa un Mando de Wii para interactuar con Flipnote Organizer y recibir respuestas hápticas como vibración. Para más información en el uso de mandos de Wii, visita %s"
+msgstr "Usa un Mando de Wii para interactuar con Flipnote Organiser y recibir respuestas hápticas como vibración. Para más información en el uso de mandos de Wii, visita %s"
 
 msgid "SETTINGS_USE_WIIMOTE_DESCRIPTION_CALIBRATE"
 msgstr "Para recalibrar el sensor de Wii, intenta no mover mucho el mando, y pulsa A cuando uno de los puntos del sensor esté dentro de las cajas de cada esquina."
@@ -513,7 +513,7 @@ msgid "SORT_PS_CONTROLLER"
 msgstr "Control de Playstation"
 
 msgid "SORT_SAVE_NOTICE"
-msgstr "Para cambiar la organización de los Flipnotes, sobreescribe el archivo dirmemo2.lst en la carpeta que acabas de organizar con el archivo incluido en la carpeta que descargaste desde Flipnote Organizer."
+msgstr "Para cambiar la organización de los Flipnotes, sobreescribe el archivo dirmemo2.lst en la carpeta que acabas de organizar con el archivo incluido en la carpeta que descargaste desde Flipnote Organiser."
 
 msgid "SORT_SAVE_NOTICE_TITLE"
 msgstr "Por favor, ten en cuenta:"
