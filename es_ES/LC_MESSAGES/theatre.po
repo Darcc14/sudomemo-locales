@@ -294,7 +294,7 @@ msgid "CATEGORY"
 msgstr "Categoría"
 
 msgid "CATEGORY_INDEX_CHANNEL_INFO"
-msgstr "Browse themed collections of Flipnotes — and join the fun by posting yours to a channel!"
+msgstr "¡Navega por colecciones y temas de Flipnotes, y únete a la diversión publicando uno a uno de los canales!"
 
 msgid "CHANGE_PROFILE_PICTURE"
 msgstr "Cambiar Foto de Perfil"
@@ -344,10 +344,10 @@ msgid "CHANNEL_PERM_OPEN"
 msgstr "Abierto"
 
 msgid "CHANNEL_RANKING"
-msgstr "Channel Ranking"
+msgstr "Canales Populares"
 
 msgid "CHANNEL_RANKING_SIDEBAR"
-msgstr "Channel Ranking"
+msgstr "Canales Populares"
 
 msgid "CHANNEL_WATCHING_NOW"
 msgstr "Currently watching %s"
