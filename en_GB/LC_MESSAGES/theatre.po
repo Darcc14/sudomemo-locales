@@ -1798,6 +1798,12 @@ msgstr "Newest"
 msgid "NEWS"
 msgstr "News"
 
+msgid "NEWS_ARTICLE"
+msgstr "News Article"
+
+msgid "NEWS_ARTICLES"
+msgstr "News Articles"
+
 msgid "NEW_ARRIVALS"
 msgstr "New Arrivals"
 
